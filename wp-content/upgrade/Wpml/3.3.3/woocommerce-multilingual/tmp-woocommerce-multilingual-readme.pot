@@ -1,0 +1,1774 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WooCommerce Multilingual - run WooCommerce with WPML"
+msgstr ""
+
+#. Short description.
+msgid "Allows running fully multilingual e-commerce sites using WooCommerce and WPML."
+msgstr ""
+
+#. Screenshot description.
+msgid "Translation controls for products"
+msgstr ""
+
+#. Screenshot description.
+msgid "Product categories translations"
+msgstr ""
+
+#. Screenshot description.
+msgid "Multiple currencies"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Usage Instructions"
+msgstr ""
+
+#. Found in description header.
+msgid "Downloads"
+msgstr ""
+
+#. Found in description header.
+msgid "Minimum versions for WPML and modules"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lets you translate different kinds of WooCommerce product types"
+msgstr ""
+
+#. Found in description list item.
+msgid "Central management for translating product categories, tags and custom attributes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Automatically synchronizes product variations and images"
+msgstr ""
+
+#. Found in description list item.
+msgid "Keeps the same language through the checkout process"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sends emails to clients and admins in their selected language"
+msgstr ""
+
+#. Found in description list item.
+msgid "Allows inventory tracking without breaking products into languages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Enables running a single WooCommerce store with multiple currencies"
+msgstr ""
+
+#. Found in description list item.
+msgid "WPML Multilingual CMS       - 3.1.5"
+msgstr ""
+
+#. Found in description list item.
+msgid "WPML String Translation     - 2.0"
+msgstr ""
+
+#. Found in description list item.
+msgid "WPML Translation Management - 1.9"
+msgstr ""
+
+#. Found in description list item.
+msgid "WPML Media                  - 2.1"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This 'glue' plugin makes it possible to run fully multilingual e-commerce sites using <a href=\"http://wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> and <a href=\"http://wpml.org\">WPML</a>. It makes products and store pages translatable, lets visitors switch languages and order products in their language."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For step by step instructions on setting up a multilingual shop, please go to <a href=\"http://wpml.org/documentation/related-projects/woocommerce-multilingual/\">WooCommerce Multilingual Manual</a> page."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "After installing, go to WPML-&gt;WooCommerce Multilingual. The 'General settings' tab will let you translate the store pages and report what taxonomy requires translation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Then, continue to the 'Products' and any categories, tags and custom taxonomy that you use."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "When you need help, go to <a href=\"http://wpml.org/forums/topic-tag/woocommerce/\">WooCommerce Multilingual support forum</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This version of WooCommerce Multilingual works with WooCommerce 2.x."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You will also need <a href=\"http://wpml.org\">WPML</a>, together with the String Translation and the Translation Management modules, which are part of the <a href=\"http://wpml.org/purchase/\">Multilingual CMS</a> package."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce Multilingual checks that the following versions of WPML and their components are active:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Without having all these running, WooCommerce Multilingual will not be able to run."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload 'woocommerce-multilingual' to the '/wp-content/plugins/' directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Translate the shop pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a backward compatibility with WPML versions prior 3.2 (causing fatal error)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: in some specific cases variations were not created correctly - 'Any %name%' instead of term value"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: updating a product for which attached media had been deleted caused a warning (WooCommerce issue: 9681)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with completing PayPal payments when using the default permalinks and the language as a parameter in the urls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with order notes in the WP admin: 'array' was displayed instead of the actual note"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a problem with the previous version that caused a fatal error when upgrading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for translating custom attributes (for variations) via the professional translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for translating products tab information (WooCommerce Tab Manager) via the professional translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for translating persons and resources (WooCommerce Bookings) via the professional translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for translating products bundle data (WooCommerce Product Bundles) via the professional translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added extended compatibility and support for professional translation for WooCommerce Composite Products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: it was not possible to set a product translation as draft when the original was published"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: in some cases the product categories hierarchy (and count) was not sycned across translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: the custom title and description of a bundle of a translated product was removed after updating the original product"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: custom fields that did not have any translation preference were wrongfully copied across translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: multi-currency was not working properly for product variations when the \"Show only products with custom prices in secondary currencies\" option was on"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an important compatibility issue with Yoast SEO (fatal error when using Yoast SEO 3.0+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: wcml_check_on_duplicate_products_in_cart was incorrectly duplicated specific items in the cart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added synchronization for the 'featured' flag (star) for products across translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed one compatibility problem with WooCommerce Bookings: bookings were not filtered by language on the front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed one compatibility problem with WooCommerce Composite Products (causing a fatal error when viewing a composite product)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: in some cases the cart total in a secondary currency was wrongfully rounded instead of showing the decimals"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: translated products were not published on the same schedule when using the future publishing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: in some situations variations could not be created for a variable product with global attributes that contained special characters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: wrong currency was used in an order when the currency was changed while placing the order and checkingout with Paypal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: the relationship of a duplicate product with the original was lost when the original was updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility fixes for WooCommerce Bookings and WooCommerce Composite Products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a typo in a function that caused a fatal error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for strings in different languages. Translated strings are not required to be in English (Requires WPML 3.3+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility issue with WooCommerce Bookings: bookings in all languages showing on calendar (requires WooCommerce Bookings 1.8+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility issue with WooCommerce Bookings: deleting a reservation did not delete translations too (requires WooCommerce Bookings 1.8+)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a PayPal checkout issue when multi-currency was enabled and the decimal separator was set to comma and thousands separator was set to dot"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility issue with WooCommerce Product Addons: adding a second item for the same product added the first product again too"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: a slash character was missing the in product breadcrumb when the translated page slug was identical to the one in the default language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: incorrect cost for the flat rate shipping was displayed in certain circumstances"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved compatibility with Gravity Forms Product Addons for translating the cart data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed a deprecated hook used for the compatibility with WooCommerce Subscriptions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: cart_widget.js code was loaded in places that it wasn't needed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: in a specific case, the price in a secondary currency was not displayed correctly (the amount in the original currency was displayed)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: content was disappearing when switching between the visual and text editors on the product translation editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: when using attributes that were numeric values a catchable fatal error was triggered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed one issue that was causing a fatal error when an older version WPML was used (3.1.9.7)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Custom prices for variations were not saved when clicking the 'Save changes' button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Pagination was not working for a category having the term id equal to the id of the account page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: 'Shop' was appearing two times in the breadcrumbs when using the shop base + category for a product url base"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed one issue with WooCommerce Bookings - adding two separate bookings to the cart showed as one item instead of two"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The products menu order was not synced in some situations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility issue with the Peddlar theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a styling issue on the custom prices section for product variations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updates for the compatibility with WooCommerce Product Bundles from the plugin author"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Sometimes it was not possible to enable the slug translation for a custom post when WooCommerce Multilingual was active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Prices for variable products were not converted correctly when using multiple currencies after the WooCommerce 2.4 update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Variations translations were not created when using custom attributes with space characters in them"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: When the option to show only products with custom prices in the secondary currencies was on, no products were displayed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the order in which the products are displayed on the WooCommerce Multilingual products editor: chronological DESC"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a series of compatibility fixes for WooCommerce 2.4.x (custom attributes, endpoints)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Incorrect prices were calculated for Table Rate Shipping (bug originally fixed in version 3.6.5)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: WooCommerce Bookings - when you deleted a booking from the backend, the calendar on the front end did not update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: WooCommerce Bookings - translations of a booking post were not deleted when the original post was deleted"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: WooCommerce Bookings - booking product appeared multiple times in the cart in some cases"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: WooCommerce Bookings - when a booking product was created from the backend, multiple posts were created in some cases"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: 'Stock Qty' field was not locked in the translated variations section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Converted prices in secondary currencies were incorrect in some situations. e.g. For VND with an VND:EUR exchange rate of 30,000:1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Wrong urls were displayed in the  language switcher for product category or product tag urls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that was causing a PHP warning when using a WPML version prior 3.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enabled the WooCommerce Bookings compatibility support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed a bug that caused a wrong price to be displayed when adding a product in the cart from two different languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: After a product translation was edited in the standard product editor, the WooCommerce custom attribute translations were lost"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The product variations failed to sync when the term_id was different than the term_taxonomy_id for the terms used to create the variations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Some product translations were showing non existing discounted prices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a couple of compatibility issues with WooCommerce Product Bundles (e.g. with using the Flatsome theme) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a small usability issue related to Sensei"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Stock quantity not synchronized when items were used in orders created in the backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Payment gateways strings were not registered for string translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Global Attributes were not translated in the WooCommerce Mail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: In some cases the WooCommerce endpoints were not translated correctly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: An extra 'a' tag was added to products in the mini-cart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: A 404 error was returned on the translated product category archive page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Some shipping methods were displayed incorrectly on the cart page when using Table Rate Shipping"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: In some cases prices showing the Paypal order summary included decimals even if the prices were supposed to be rounded to integers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: When adding different variations of a product, a single variation was added more times"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Urls in the secondary languages were not working properly when using the deafault translations (from teh mo files) instead of translating tehm with string translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: In some cases some email notification strings were not registered"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a compatibility problem with Dynamic Pricing: in a specific context, based on a price rule, the end price was multiplied by a factor with each page reload"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Parse error: syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM (introduced in 3.6.1)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: In some conditions it was not possible to load product pages in other languages than the default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed some compatibility issues with Product Bundles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug causing a PHP warning when using an older version of WPML String Translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: A product could appear multiple times in the cart when added in different languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Product attribute labels translations were not showing on the frontend in some circumstances"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Attributes labels translations not showing on the 'Add product' admin panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The flags for custom languages were not showing correctly on the products editor screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The currency switcher was missing from the WooCommerce Status dashboard widget (in version 3.6.1)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The auto-adjust ids functionality from WPML was not working with wc_get_product_terms"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The 'shop' link was stripped out of the breadcrumb in the Woocommerce product page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The product category template was not working correctly in secondary languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed a problem with sanitize_title for variations in Danish and German"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved the Tab manager settings to separate file from the WCML config"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Duplicates for media are now being created, if missing, when product translations are created. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed a fatal error that was occurring when the WPML was not updated to version 3.2 while the WPML addons were updated to the latest versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the taxonomy translation synchronization to be compatible with WPML 3.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: the notice that shows up on the general settings page when the default language is not English did not hide when it was dismissed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: after adding a new currency and reloading the page, the new currency was gone. Also the exchange rate was wrong after re-adding teh currency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: an incorrect currency was being passed to the payment gateway when paying for an order created in the backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: the prices in the custom currencies were not saved when a product was published."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: extra backslashes were added when translating custom attribute name in products."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: custom product categories template was not working as expected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: updating WordPress language packs was not working when using custom locale codes in WPML"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Variable products returned error in secondary language \"This product is currently out of stock and unavailable.\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The publishing date was not updating on translation when changed on the product in the original language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Attributes with the value \"0\" value were not displayed on the front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Modified Free shipping label could not be translated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: When editing product translations it was possible to save an empty slug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to edit the slugs of the translated products in the products editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to show only products with custom prices on the front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Performance improvements: fewer db queries, caching. Up to 40% faster on large sites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for the 'lang' parameter in WooCommerce REST API calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to hide the default currency selector on the product page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fixed a design issue on the 'connect with translation' pop-up on products."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Accessing the source content in the WooCommerce Multilingual product translation content editor was not possible sometimes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: 'Invisible' products were showing as links in the cart instead of just names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: The cart_widget.js code was always loaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Screen Options &amp; Check All not working on WooCommerce Orders page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Sometimes the IPN Url sent to Paypal was wrong causing a 404 error after the payment was complete"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Translated endpoint pages were sometimes returning 404"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: When using a default language different than English, the product permalink base was not in English."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Custom attributes were disappearing after updating a product in the WooCommerce native product editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested compatibility with WordPress 4.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security review and fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made the key \"woocommerce_cancelled_order_settings\" translatable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Email heading and subject sent after placing an order were not translated when using ‘Complete’ button on orders page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: warning about minimum order requirement always showing in some conditions when using a child theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Can't access source content in WCML product translation table"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Custom Post Types leads to 404 error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Redirection issues with \"Your latest posts\" as a front page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Yoast fileds not saved in WooCommerce Multilingual products table"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Translated endpoints returns page not found"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Custom fields are locked in variation section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility with WooCommerce 2.3.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Redirection issues with \"Shop\" page as front page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Language column was missing from the products list page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Product tags disappeared after updating the product attribute 'size'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Featured image title and text were not editable in the WooCommerce Multilingual Translation Table"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Only first three attributes were available for translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The shipping fee was not converted correctly when using the multi-currency mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The default currency configuration (decimal &amp; thousand separator) was ignored when the multi-currency was active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Subsequent request to product preview page lead to a 404 page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: 'Insert link' button on the visual editor of the products translations screen was not working."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Fixed another compatibility problem with WooCommerce Product Tabs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: A variable product was showing an incorrect price in the cart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The flat rate shipping was showing the wrong price on the checkout page in certain conditions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Performance issue with queries number"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for creating products in secondary languages only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added enhancements for the Woocommerce Multilingual products table (filter by original language, display language flag)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to synchronize the products and product taxonomies order."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The cart was not updating quantities for variable product (when have more than one variable in the cart)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The cart total was not updating when using get_cart_total() and get_cart_subtotal() functions in other plugins or themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Wrong price format and order total were displayed on the new order page in the WP admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The featured image and the gallery images were overridden when updating translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Fixed the 'Keep' option that allows keeping the same currency on teh front end, when switching the language."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Fixed a javascript error that was showing when changing currencies order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The decimal number was not working correctly for the default currency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Fixed a compatibility problem with WooCommerce Product Tabs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: A coupon was applied incorrectly to all products in the cart when they were defined for specific product variations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: WooCommerce note email language was not correct"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: WooCommerce reports were showing duplicate products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: When using WordPress in a folder, the checkout showed an 'expired session' error message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support currency argument in raw_price_filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Incorrect decimal separator for prices on WordPress admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: ‘Insert link’ button not working on products translator interface."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Switching currency after adding to cart was adding an additional item"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Review setting not preserved on translation of variable product"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: “Visible on the products page” option for product attributes was still selectable for product translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Translation status icon not updated on products translator page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Shipping rate was lost when WPML is activated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: WooCommerce ‘sort by’ links going to blog not products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Option to select currency position was missing immediately after a new currency was added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Accommodated taxonomy translation changes in WPML"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: A variable product was somtimes breaking the shopping cart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes added for translating custom fields that are textareas"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional support for updating the WooCommerce translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added currency switcher for the WooCommerce status widget on the WordPress admin dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Usability fixes for the translation of custom attributes in the WooCommerce native editor."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added validation for the sale amount when using custom prices with multi-currency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Incorrect currency symbol position on edit order page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Incorrect currency displayed for order when editing an order in the backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Coupon option 'Exclude sale items' was not being applied correctly. Sale items were not excluded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Currency switcher widget was not showing under the available widgets list in the backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: The breadcrumbs structure dropped the shop page when WooCommerce Multilingual was activated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Manually adding a product to an order is not taking a custom price (secondary currency) if set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed: Error when trying to add a category when “All languages” was selected in the admin language switcher."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug related to back-compatibility with WooCommerce versions &lt; 2.2.*"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility with WooCommerce 2.2.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Auto-download WooCommerce translations for active and new languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Page titles translations for WooCommerce pages taken from WooCommerce Multilingual .mo files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Product base, product category slug, product tag slug and product attribute bases will always have to be translated via String Translation (not using WooCommerce translations from the mo files)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added warning message on settings page when product base not translated to all languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Base currency format ignored after adding additional currency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Shipping class names were displayed wrong on the WooCommerce settings page when switching the admin language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: WooCommerce pages were not working correctly after changing the default language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: WooCommerce native interface doesn't copy the variations prices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: 'Language warning' appears when editing product translations using the native WooCommerce editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Variation cannot be added to an existing order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Media Attachment controls for products missing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevented disabling of option to use slugs in different language for products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Slashes not stripped correctly in product translation editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: 'Copy content' button not working on product translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disable admin language switcher on the Product =&gt; Attributes screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow 'woocommerce_price_display_suffix' to be translated with String Translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow 'woocommerce_email_from_name' and 'woocommerce_email_from_address' to be translated with String Translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Menu order is not synced when using \"drag and drop\" in Products =&gt; Sort Products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: One WooCommerce attribute field won't translate"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Variations not showing in the correct language in some circumstances"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Optimizations for the WooCommerce Multilingual products admin page - faster when a large number of products exist"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Duplicate translations too when duplicating a WooCommerce product"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: WC Price Filter showing the wrong currency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ability to use any currency when creating an order in the backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some strings were showing in the wrong language on the cart and checkout page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Product category urls - in some cases the product category urls didn�t work on sites with the default language different than English."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Products gallery images synchronization - sometimes, when synchronizing products \"gallery images\" and categories, the result was not  updated correctly on the Troubleshooting page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues related to WooCOmmerce Dynamic Pricing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Supoprt for translating WooCommerce 2.1+ endpoints"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "'Continue Shopping' button pointing to the wrong url"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Problem with short links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some issues with Table Rate Shipping"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Performance improvements: optimized database queries"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support rounding rules for converted prices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More advanced GUI for Multi-currency options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "GUI for currency switchers (including widget)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to synchronize product category display type &amp; thumbnail"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Performance improvement for WCML_Terms::translate_category_base (avoid switching locales)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Send admin notifications to admin default language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dependencies update: WooCommerce Multilingual requires WPML 3.1.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set language information for existing products when installing WCML the first time."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Do not allow disabling all currencies for a language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed �clean up test content� and �send to translation� dropdown on products editor page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Message about overwritten settings in wpml-config made more explicit"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lock �Default variation� select field in product translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "After change shipping method on cart page we will see not translated strings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug related to shipping cost calculation in multi-currency mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "With php magic quotes on, products translations with quotes have backslashes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug related to translation of grouped products � simple product not showing up on front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Stock actions on the order page don�t work correct with translated products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "For Orders save attributes in default language and display them on order page in admin language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Attribute Label appearing untranslated in backend order"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Memory issues on the Products tab when we have a large number of products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "�product-category� not translated in the default language."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "�WCML_Products� does not have a method �translated_cart_item_name�"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Order completed emails sent in default currency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Language suffix (e.g. @en) not hidden for product attributes on the front end"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Quick edit functionality issues fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed �Call to undefined method WC_Session_Handler::get()�"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fatal error when updating the order status to �complete�"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Currency is not converted when you switch language until you refresh the page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "�Super Admin� not able to see the WCML menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Checkout validation errors in default language instead of user language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes for compatibility with Tab manager: Can�t translate �Additional Information� tab title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: SEO title &amp; meta description changed to original"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: 404 on �view my order� on secondary language using �language name added as a parameter�"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Permalink placeholders appear translated when using default language different than English"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes for compatibility with Table Rate shipping: shipping classes not decoded correctly in multi-currency mode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: �show all products� link on WCML products page points to the wrong page � no products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: product page redirecting to homepage when the product post type slug was identical in different languages and �language added as a parameter� was set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixes related to File paths functionality (WooComemrce 2.1.x)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Product parents not synced between translations (grouped products)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Grouped products title incomplete"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Db Error when saving translation of variable products with custom attributes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: WooCommerce translated product attributes with spaces not showing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Deactivated currency still appears if you maintain the default currency for that language to �Keep�."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Incorrect shipping value on translated page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Reports for products including only products in the current language (WooCommerce 2.1.x)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Problems creating translations for shop pages when existing pages were trashed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Fatal error when Multi-currency is not enabled and �Table Rate Shipping� plugin is active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in compatibility with Tab Manager"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Cart strings falling to default language after updating chosen shipping method"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: Reports not including selected product/category translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug related to product category urls translaiton"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug related to back-compatibility with WooCommerce 2.0.20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility with upcoming WooCommerce 2.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multi-currency support: configure currencies per languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multi-currency support: custom prices for different currencies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support translation for the attribute base (permalinks)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Emails not sent in the correct language when uses bulk action on orders list page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Order notes email in wrong language in certain circumstances"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Shipping method names are being registered in the wrong language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: WooCommerce Multilingual menu doesn't display for translators "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Using 'category' for products cat slug conflicts with posts 'category'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Paypal rejects payments with decimals on certain currencies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for multi-currency (independent of language) BETA"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for translating products via ICanLocalize (professional translation)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to synchronize product translation dates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatibility with Table Rate Shipping and other extensions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better handling for couponse"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: product attributes not saved on orders"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Can't get to the cart &amp; checkout pages if they are set as child pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Style conflicts in Dashboard for Arabic"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed various issues with notification emails"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Variable products default selection is not copied to translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Product Table is not showing Product Draft count"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced deprecated jQuery function live()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: language names not localized on products editor page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Can't set \"Custom post type\" to translate"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Translation fields not visible - In certain circumstances (e.g. search) the translation fields corresponding to the translated languages were missing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed alignment for �Update/Save� button in the products translation editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Default selection not copied to duplicate products"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: Price doesn't change when change language on the cart page when set \"I will manage the pricing in each currency myself\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved one compatibility issue with Woosidebars"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Direct translators to the products translation editor automatically (instead of the standard post translation editor)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug: In some situations (different child categories with the same name) the wrong categories were set to a duplicated product."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add icons for products in the products translation editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Register WooCommerce strings (defined as admin texts in the wpml config file) automatically on plugin activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WPML (+addons) - new versions required."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "lcfirst is only available since php 5.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Identify fields on known plugins and show their human name in our product translation table (support for WordPress SEO for now)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Brand new GUI and workflow"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for easy taxonomy translation "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bariations synchronization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Product images synchronization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix logout link not working in secondary language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix accepting orders in backend leading to 404"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set email headings &amp; subjects as translatable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set order language when sending order emails from admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sync product tags the same way as categories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug in ajax product search filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for WooCommerce Brands extension (http://www.woothemes.com/products/brands/)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial support for Translation Editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug with cart currency updates and variations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix language in new customer note notifications"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sync also default options for custom attributes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Global resync (done only once) of the orderings of product attribute values and categories across all languages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug and a corner case in variation synchronization."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed incompatibility with PHP 5.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Refactor translation and currency conversion of products &amp; variations in cart"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A problem we had with shipping selection was resolved in WooCommerce itself"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved synchronization of global product attributes, whether used for variations or not"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom product attributes registered as strings when defined in the backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Don't adjust the currency symbol in WooCommerce settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Term and product category order is synchronized among languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additional filters for WooCommerce emails"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed layered nav widgets in translated shop page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Synchronize Product Categories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Price in mini-cart refreshed when changing language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug in multilingual currency setting that slipped in 2.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add admin notices for required plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for 'Review Order' and 'Lost Password' pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix rounding issues in currency conversion"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Variations: pick translated terms using 'trid' gives better results"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Variations: sync to all languages when there are more than 2 languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: load JS/CSS only when needed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix variation sync to more than one language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix custom field sync for new variations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix rounding of amounts in PayPal"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adjust product stock sync to WC 2.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add automatic id translation of logout page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adjust permalink warnings to WC 2.x"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clean up code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed manually setting prices in translated products."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Take advantage of WPML's new slug translation feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the possibility of translating custom attributes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvements to product variation synchronization."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed product stock sync for variable products ."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix and improve checks made to incompatible permalink configurations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix tax label translation when there is more than one of them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Send order notifications in the language the order was made."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed several warnings and updated deprecated code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleanup language configuration file and add missing strings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow translating the 'Terms &amp; Conditions' page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Register shipping methods strings for translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Register several tax-related strings for translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix registration of payment gateway titles and descriptions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Synchronize the default attribute of a variable product across its translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow saving WooCommerce/Settings while using a non-default language."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix problems when the shop page is at the home page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow using Wordpress default permalink structure aswell."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix amount sent to payment gateway when using multiple currencies."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for language switcher in shop pages (fixed in WPML)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for subscriptions module price not showing (fixed in WPML)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rewrite product variation sync: each variation is related to its translations, sync becomes easier"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove several PHP warnings and notices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Send order status update emails in the language the order was made."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed all custom fields synchronization between translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the stock issue for translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the price filter widget for multiple currencies feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed product duplication to a second language "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Payment gateways texts now are translatable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Custom variables translations now will be shown in the correct language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added helpful documentation buttons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added makes new attributes translatable automatically"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added payment gateways translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed order statuses disappeared in the orders page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed attributes translations in duplicated variations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed PHP warning when adding variations is in question"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added multi-currency feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed synchronization of attributes and variations "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed translation of attributes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed JS error in the checkout page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed enable guest checkout (no account required) issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Up-sells/Cross-sells search (showed all translated products)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed 'Show post translation link' repeating issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed 'Return to store' URL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed language selector for the translated shop base pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the product remove URL in the translated language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the checkout URL in the translated language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix to prevent incorrect product URL in the shop base page when the permalink is not 'shop'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does this work with other e-commerce plugins?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What do I need to do in my theme?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My checkout page displays in the same language"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. This plugin is tailored for WooCommerce."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Make sure that your theme is not hard-coding any URL. Always use API calls to receive URLs to pages and you'll be fine."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "In order for the checkout and store pages to appear translated, you need to create several WordPress pages and insert the WooCommerce shortcodes into them. You'll have to go over the <a href=\"http://wpml.org/documentation/related-projects/woocommerce-multilingual/\">documentation</a> and see that you performed all steps on the way."
+msgstr ""
